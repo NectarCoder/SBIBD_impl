@@ -6,7 +6,7 @@ A sample implementation scenario based on IEEE paper "Block Design-Based Key Agr
 
 This project roughly follows the system outline shown below.[^2] A refined diagram is shown later that this project adheres to.  
  
-<img alt="system_arch.jpg" src="system_arch.jpg" width="403"/>
+<img alt="system_arch.jpg" src="system_arch_original.jpg" width="403"/>
 
 Essentially, "A TPA, cloud and users are involved in the model, where the TPA is responsible for cloud storage auditing, fault detection and generating the system parameters. The cloud, who is a semi-trusted party, provides users with data storage services and download services. Users can be individuals or staff in a company. To work together, they form a group, upload data to the cloud server and share the outsourced data with the group members. In practice, users can be mobile Android devices, mobile phones, laptops, nodes in underwater sensor networks and so forth."[^2]    
 
