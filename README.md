@@ -19,9 +19,13 @@ That is, we use a decentralized model where the participants themselves generate
 
 Due to this, our implementation does **not** bring a TPA into consideration.
 
-### Refined Diagram  
+### Refined Diagram
 
-to be completed
+<img alt="system_arch_refined.png" src="system_arch_refined.png" width="400"/>  
+
+This is our refined system architecture that we aim to follow for the implementation of this project. We've also created another diagram to demonstrate the system's resilience against potential bad actors, specifically considering the scenarios laid out in the paper.  
+
+<img alt="system_arch_refined_ba.png" src="system_arch_refined_ba.png" width="400"/>  
 
 [^1]: Shen, Jian, et al. “Block design-based key agreement for Group Data Sharing in cloud computing.” IEEE Transactions on Dependable and Secure Computing, vol. 16, no. 6, 1 Nov. 2019, pp. 1-15, https://doi.org/10.1109/tdsc.2017.2725953.  
 [^2]: [^1] (Shen et al. 4)  
